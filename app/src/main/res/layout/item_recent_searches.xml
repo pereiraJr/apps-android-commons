@@ -6,4 +6,4 @@
     android:padding="@dimen/standard_gap"
     android:text="@string/search_commons"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    android:textColor="@color/layout_light_grey"/>
+    />
